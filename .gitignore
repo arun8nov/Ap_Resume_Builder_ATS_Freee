@@ -1,0 +1,9 @@
+.env
+user_profile.json
+__pycache__/
+*.pyc
+.python-version
+uv.lock
+resumes/
+main.tex
+.venv
