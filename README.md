@@ -5,6 +5,8 @@
 **AI-powered resume builder that creates ATS-friendly LaTeX resumes from scratch**  
 *Fill a form → Build your base resume → Paste any JD → Get an optimized `main.tex` → Compile in Overleaf → Apply*
 
+
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![NVIDIA API](https://img.shields.io/badge/NVIDIA-Llama%203.1%208B-76B900?logo=nvidia&logoColor=white)](https://build.nvidia.com)
@@ -14,7 +16,7 @@
 </div>
 
 ---
-
+![Alt text](Image.png)
 ## 🧠 What This Does
 
 Most resume builders give you a generic template. This platform uses **three AI agents** to:
